@@ -163,7 +163,7 @@ void showMenu()
 {
 
 	cout << "-------------------------"
-		<< "GeeksforGeeks Employee"
+		<< " Employee "
 		<< " Management System"
 		<< "-------------------------\n\n";
 
